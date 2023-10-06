@@ -4,11 +4,11 @@ A new Flutter project which contain some functionalities of our challenge at the
 
 Home Page: 
 
-![Home](HomeScreen.png)
+<img src="HomeScreen.png" width="200" />
 
   - The first is `Water.dart`, there are two information there can help the user (Drinkable, Swimmable).
 
-    ![WaterPage](WaterScreen.png)
+    <img src="WaterScreen.png" width="200" />
     
   - the secon is `Fish.dart`, there are some of useful information in this page which can help the user to know more about the endangered species and how to protect them.
 
