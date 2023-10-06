@@ -12,7 +12,7 @@ Home Page:
     
   - the secon is `Fish.dart`, there are some of useful information in this page which can help the user to know more about the endangered species and how to protect them.
 
-    ![FishPage](fishScreen.png)
+    <img src="fishScreen.png" width="200" />
 
 
 **That was a simple brief of the main functionalities in our application**,
